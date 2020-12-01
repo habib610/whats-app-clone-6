@@ -27,6 +27,7 @@
     background-position: center;
     padding: 30px;
     margin-left: -20px;
+    overflow-y: scroll;
 }
 .chat_message{
     position: relative;
@@ -49,7 +50,7 @@
 }
 .chat_receiver{
     margin-left: auto;
-    background: #cbffa4;
+    background: #a3e472;
 }
 .chat_footer{
     display: flex;
